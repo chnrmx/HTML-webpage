@@ -1,3 +1,3 @@
 # My-first-HTML-Webpage
 
-hhh
+This is my first HTML webpage project with no CSS.
